@@ -1,7 +1,7 @@
 # chat
 ## install
 ```bash
-git clone https://github.com/neuqzxy/chat.git
+git clone https://github.com/anlzou/Web_ChatRoom.git
 cd chat/original/chat+++
 npm install
 ```
