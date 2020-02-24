@@ -10,7 +10,6 @@ npm install
 node app.js
 ```
 ## demo
-* connect to "chat.mycollagelife.com"
 
 备注：
 这里有两个文件夹，一个是original文件夹，一个是chat文件夹，内容基本相同。<br>
